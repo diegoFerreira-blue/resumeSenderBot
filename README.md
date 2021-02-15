@@ -1,3 +1,7 @@
 ### Automated CV sender with python to a certain Brazilian jobs site
 
-#### I did this because i was too lazy to browse through all the jobs so i made a bot that would send my CVs to all jobs available in the site and save when was the last time it sent my CV.
+# resumeSenderBot
+automated resume sender bot to a certain brazilian job site<br>
+Made this automated sender because i was too lazy to send my resumes, it works by using selenium, and it's very specific to the page layout, 
+so it's more to give an idea on how to use selenium and automate stuff with it.
+
